@@ -1,6 +1,6 @@
 ## Hi, I'm Pranav Joshi 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+Full-Stack+Web+Developer;Aspiring+SWE;Computer+Science+@UMich;Skilled+Python+User;ML+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Full-Stack+Web+Developer;Aspiring+SWE;Computer+Science+%40+UMich;Skilled+Python+User;ML+Enthusiast)](https://git.io/typing-svg)
 <!--
 **pjjosh/pjjosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
