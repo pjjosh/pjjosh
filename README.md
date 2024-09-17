@@ -19,8 +19,7 @@ Hi! I'm Pranav Joshi, a passionate full-stack developer and computer science stu
 
 ### Skills
 - **Languages:** JavaScript (React, Node.js), Python, C#, SQL, HTML/CSS
-- **Frameworks & Tools:** Flask, Firebase, PostgreSQL, AWS, Docker
-- **Data Analysis:** numpy, pandas, scikit-learn, seaborn
+- **Frameworks & Tools:** React.js, Flask, MySQL, Node.js, Pandas, Tensorflow, Heroku, AWS, PostgreSQL, SQLite, Firebase
 - **Other:** Git, REST APIs, Machine Learning
 
 ---
@@ -32,4 +31,3 @@ Hi! I'm Pranav Joshi, a passionate full-stack developer and computer science stu
 
 ### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/pranav_j4)
-- [Personal Website](https://yourwebsite.com)
