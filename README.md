@@ -24,10 +24,5 @@ Hi! I'm Pranav Joshi, a passionate full-stack developer and computer science stu
 
 ---
 
-### GitHub Stats
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjjosh&show_icons=true&theme=radical)
-
----
-
 ### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/pranav_j4)
