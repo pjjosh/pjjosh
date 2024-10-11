@@ -18,7 +18,7 @@ Hi! I'm Pranav Joshi, a passionate full-stack developer and computer science stu
 ---
 
 ### Skills
-- **Languages:** JavaScript (React, Node.js), Python, C#, SQL, HTML/CSS
+- **Languages:** C++, C, Python, Java, JavaScript (React, Node.js), C#, SQL, HTML/CSS
 - **Frameworks & Tools:** React.js, Flask, MySQL, Node.js, Pandas, Tensorflow, Heroku, AWS, PostgreSQL, SQLite, Firebase
 - **Other:** Git, REST APIs, Machine Learning
 
